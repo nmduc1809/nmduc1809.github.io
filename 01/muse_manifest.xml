@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://nmduc1809.github.io" resolutions="1x" timestamp="1491878482055">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="334280256" ref="index"/>
+    <file name="master_a-master.css" crc="4092491781" ref="index:san-pham"/>
+    <file name="san-pham.css" crc="354925988" ref="san-pham"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:san-pham"/>
+    <file name="museutils.js" crc="531812214" ref="index:san-pham"/>
+    <file name="whatinput.js" crc="84559013" ref="index:san-pham"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:san-pham"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:san-pham"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:san-pham"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="97140996" seo="true" ref="index"/>
+    <file name="logo fix-11.jpg" crc="4136698296" seo="true" ref="san-pham"/>
+    <file name="logo fix-12.jpg" crc="15430880" seo="true" ref="san-pham"/>
+    <file name="logo fix-08.jpg" crc="475778521" seo="true" ref="san-pham"/>
+    <file name="logo fix-09.jpg" crc="4206845834" seo="true" ref="san-pham"/>
+  </folder>
+  <file name="index.html" crc="4238041731" seo="true" mt="1491878223182" redirect="true"/>
+  <file name="san-pham.html" crc="3764856153" seo="true" mt="1491878443013" redirect="true"/>
+</manifest>

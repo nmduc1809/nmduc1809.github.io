@@ -1,0 +1,218 @@
+.version.index /* version checker */
+{
+	color: #000013;
+	background-color: #ECB640;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1130px;
+	min-height: 370.65px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 43px 20px 137.35000000000002px;
+}
+
+#menuu178
+{
+	z-index: 2;
+	width: 446px;
+	margin-left: 684px;
+	position: relative;
+}
+
+#u179
+{
+	width: 222px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u182
+{
+	width: 222px;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u182:hover
+{
+	width: 222px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u182:active
+{
+	width: 222px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u185-4
+{
+	width: 222px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u182:hover #u185-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 222px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u182:active #u185-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 222px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u186
+{
+	width: 222px;
+	min-height: 34px;
+	position: relative;
+	margin-right: -10000px;
+	left: 224px;
+}
+
+#u189
+{
+	width: 222px;
+	padding-bottom: 17px;
+	position: relative;
+}
+
+#u182.MuseMenuActive,#u189:hover
+{
+	width: 222px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u189:active
+{
+	width: 222px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u189.MuseMenuActive
+{
+	width: 222px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u191-4
+{
+	width: 222px;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u182.MuseMenuActive #u185-4,#u189:hover #u191-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 222px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u189:active #u191-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 222px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u189.MuseMenuActive #u191-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 222px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u163-4
+{
+	z-index: 21;
+	width: 550px;
+	min-height: 66px;
+	background-color: transparent;
+	color: #FF0000;
+	line-height: 61px;
+	font-size: 51px;
+	text-align: center;
+	margin-left: 290px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#pu125
+{
+	width: 0.01px;
+	margin-top: 24px;
+}
+
+#u125
+{
+	z-index: 15;
+	width: 357px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u142
+{
+	z-index: 17;
+	width: 357px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 387px;
+}
+
+#u156
+{
+	z-index: 19;
+	width: 357px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 773px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 1170px;
+}
+
