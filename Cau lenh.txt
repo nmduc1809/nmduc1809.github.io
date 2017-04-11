@@ -12,3 +12,9 @@ copy doan trong phan code
 
 git push origin master
 >>>bat dau upload
+
+---DE LAY LAI DU LIEU TU TRUOC DO
+tao folder
+git init
+git remote add origin https://github.com/nmduc1809/nmduc1809.github.io
+git pull origin master
