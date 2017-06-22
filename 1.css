@@ -1,1 +1,84 @@
 *{margin: 0; padding: 0;} 
+
+.khung {
+	position: relative;
+	overflow: hidden;
+	width: 300px;
+	height: 200px;
+}
+.khung img {
+	position: absolute;
+	z-index: 1;
+	width: 300px;
+	height: 200px;
+}
+.khung .mau {
+	background-color: black;
+	position: absolute;
+	z-index: 2;
+	opacity: 0.5;
+	width: 300px;
+	height: 200px;
+	transition:0.4s;
+}
+.khung h2 {
+	font-size: 20px;
+	color: white;
+	font-family: arial;
+	position: absolute;
+	z-index: 3;
+	top: 45%;
+	left: 50px;
+	transition:0.4s;
+}
+.khung:hover .mau {
+	opacity: 0;
+}
+.khung:hover h2 {
+	opacity: 0;
+}
+
+/*ngang*/
+
+.khungdoc {
+	position: relative;
+	overflow: hidden;
+	width: 200px;
+	height: 300px;
+}
+.khungdoc img {
+	position: absolute;
+	z-index: 1;
+	width: 200px;
+	height: 300px;
+}
+.khungdoc .mau {
+	background-color: black;
+	position: absolute;
+	z-index: 2;
+	opacity: 0.5;
+	width: 200px;
+	height: 300px;
+	transition:0.4s;
+}
+.khungdoc h2 {
+	font-size: 20px;
+	color: white;
+	font-family: arial;
+	position: absolute;
+	z-index: 3;
+	top: 45%;
+	left: 35px;
+	transition:0.4s;
+}
+.khungdoc:hover .mau {
+	opacity: 0;
+}
+.khungdoc:hover h2 {
+	opacity: 0;
+}
+
+.cover img {
+	width: 1060px;
+	height: 265px;
+}
